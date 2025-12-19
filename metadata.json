@@ -1,0 +1,5 @@
+{
+  "name": "Tactical Map Simulator Pro",
+  "description": "A high-performance 2D procedural battle map generator with continuous coordinate space, biome simulation, and geometric navigation validation.",
+  "requestFramePermissions": []
+}
